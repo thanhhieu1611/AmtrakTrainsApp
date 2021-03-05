@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AmtrakTrainsApp</string>
+    <string name="amtrak_logo">Amtrak Logo</string>
+    <string name="boarding_time">Boarding Time</string>
+    <string name="trip_len">Length of the trip</string>
+    <string name="calculate_arrive_time">Calculate Arrive Time</string>
+    <string name="txtHours"></string>
+    <string name="minutes">Minutes</string>
+    <string name="hours">Hours</string>
+    <string name="txtMinutes"></string>
+    <string name="lblLengthOfTrip">Length Of Trip (Minutes)</string>
+    <string name="txtLength" />
+    <string name="lblArrivalTime">Arrival Time</string>
+    <string name="txtArrivalTime" />
+    <string name="txtRedEyeArrival" />
+</resources>
